@@ -1,0 +1,34 @@
+{
+  "Engineer-books": [
+    {
+      "campaign":"20% off",
+      "books": [
+        {
+          "title":"レガシーコードからの脱却",
+          "languages":"日本語"
+        },
+        {
+          "title":"Introduction to Algorithms",
+          "languages":"英語"
+        }
+      ]
+    },
+    {
+      "campaign":"50% off",
+      "books": [
+        {
+          "title":"体系的に学ぶ 安全なWebアプリケーションの作り方 第2版",
+          "languages":"日本語"
+        },
+        {
+          "title":"ハッキング・ラボのつくりかた",
+          "languages":"日本語"
+        },
+        {
+          "title":"Engineering: A Very Short Introduction ",
+          "languages":"日本語"
+        }
+      ]
+    }
+  ]
+}
